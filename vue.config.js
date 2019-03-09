@@ -3,7 +3,7 @@ module.exports = {
     name: 'View my Photos'
   },
 
-  publicPath: '/dist',
+  publicPath: undefined,
   outputDir: undefined,
   assetsDir: undefined,
   runtimeCompiler: undefined,
